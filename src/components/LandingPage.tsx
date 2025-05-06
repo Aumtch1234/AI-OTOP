@@ -188,11 +188,11 @@ export default function LandingPage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-1.jpg" alt="" />
+                  <img className="img-fluid" src="img/water1.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
-                  <h6>Category Name</h6>
-                  <small className="text-body">100 Products</small>
+                  <h6>ไวน์ น้ำหมากเม่า</h6>
+                  <small className="text-body">100 ขวด</small>
                 </div>
               </div>
             </a>
@@ -300,7 +300,7 @@ export default function LandingPage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-1.jpg" alt="" />
+                  <img className="img-fluid" src="img/water1.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
                   <h6>Category Name</h6>
@@ -332,7 +332,7 @@ export default function LandingPage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-1.jpg" alt="" />
+                  <img className="img-fluid" src="img/water1.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
                   <h6>Category Name</h6>
